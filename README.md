@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://twilio-cms-prod.s3.amazonaws.com/original_images/header.gif)]
+[![MasterHead](https://tenor.com/view/python-powered-logo-programming-language-gif-16957606)]
 <h1 align="center">Hi 👋, I'm Jake Mofa</h1>
 <h3 align="center">An innovative solution Python Developer with expertise in Backend Development</h3>
 
