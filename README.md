@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![MasterHead](https://c.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif)]
 <h1 align="center">Hi 👋, I'm Jake Mofa</h1>
-<h3 align="center">An innovative solution Python Developer with expertise in Backend Development</h3>
+<h3 align="center">An innovative solution Python Developer with expertise in Backend Development Striving to be a Full Stack Developer</h3>
 
  
  
