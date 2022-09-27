@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Remodeling a clone of Reddit**
 
-- 🌱 I’m currently learning **Django,API,React,MYSQL and to be better in other frameworks**
+- 🌱 I’m currently learning to improve on frameworks and languages like **Django,API,React,MYSQL and to be better in other frameworks**
 
 - 👯 I’m looking to collaborate on **Growing and finding new oppertunities**
 
